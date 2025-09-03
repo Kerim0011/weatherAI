@@ -2,7 +2,9 @@ AI Weather Assistant
 
 This is a single-file web application that provides a simple and interactive chat assistant. It is built to answer general questions and, most importantly, provide real-time weather information by leveraging the power of Google's Gemini AI and its Search Grounding feature.
 
+
 🚀 Features
+
 Interactive Chat Interface: A clean and simple chat window for a smooth user experience.
 
 Gemini AI Integration: Uses the gemini-2.5-flash-preview-05-20 model to provide intelligent responses.
@@ -15,7 +17,9 @@ Loading Indicator: A "Thinking..." state lets the user know when the AI is proce
 
 Responsive Design: Built with Tailwind CSS for a modern look that works on both desktop and mobile devices.
 
+
 🛠️ Technologies Used
+
 HTML5: For the application's structure.
 
 CSS: Styled with the Tailwind CSS framework for a clean, modern look.
@@ -24,7 +28,10 @@ JavaScript: Powers the chat logic, API calls, and dynamic content.
 
 Google Gemini API: The core AI model that powers the assistant's responses.
 
+
 🔧 Setup and Usage
+
+
 This project is a single index.html file, making it incredibly easy to set up and run.
 
 Save the File: Save the provided code as a file named index.html on your computer.
